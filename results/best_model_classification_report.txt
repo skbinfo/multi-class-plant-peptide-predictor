@@ -9,7 +9,7 @@ Best Model: Tuned Ensemble Voting (5-Fold CV aggregated)
        Other       0.98      0.99      0.98       500
         PSKs       0.99      1.00      1.00       500
        RALFs       0.98      0.96      0.97       500
-     Snakins       1.00      1.00      1.00       616
+     Snakins       0.99      0.99      0.99       616
     Thionins       0.92      0.88      0.90       500
 
     accuracy                           0.96      4379

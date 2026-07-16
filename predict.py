@@ -41,7 +41,7 @@ def extract_features(sequence):
     return feat_df.values
 
 def load_models(model_dir):
-    model_path = os.path.join(model_dir, 'best_classical_model.pkl')
+    model_path = os.path.join(model_dir, 'best_ensemble_model.pkl')
     scaler_path = os.path.join(model_dir, 'scaler.pkl')
     le_path = os.path.join(model_dir, 'label_encoder.pkl')
     

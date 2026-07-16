@@ -1,17 +1,17 @@
-Best Model: LightGBM
+Best Model: Tuned Ensemble Voting (5-Fold CV aggregated)
 
               precision    recall  f1-score   support
 
-         CLE       0.86      0.98      0.92       100
-  Cyclotides       0.96      0.47      0.63        53
-   Defensins       0.71      0.81      0.75        99
-        LTPs       0.90      0.84      0.87        99
-       Other       0.85      0.98      0.91       100
-        PSKs       0.97      0.98      0.98       100
-       RALFs       0.84      0.86      0.85        99
-     Snakins       0.98      0.98      0.98       179
-    Thionins       0.80      0.71      0.75       100
+         CLE       0.95      1.00      0.97       500
+  Cyclotides       0.99      0.91      0.95       265
+   Defensins       0.88      0.94      0.91       499
+        LTPs       0.99      0.96      0.97       499
+       Other       0.98      0.99      0.98       500
+        PSKs       0.99      1.00      1.00       500
+       RALFs       0.98      0.96      0.97       500
+     Snakins       1.00      1.00      1.00       616
+    Thionins       0.92      0.88      0.90       500
 
-    accuracy                           0.88       929
-   macro avg       0.88      0.84      0.85       929
-weighted avg       0.88      0.88      0.87       929
+    accuracy                           0.96      4379
+   macro avg       0.96      0.96      0.96      4379
+weighted avg       0.96      0.96      0.96      4379

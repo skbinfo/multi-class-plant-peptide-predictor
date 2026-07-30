@@ -60,14 +60,27 @@ To see all available options, run:
 python predict.py --help
 ```
 
-## Available Model Families
-The model is capable of classifying peptides into the following families:
-- CLE
-- Cyclotides
-- Defensins
-- LTPs
-- PSKs
-- RALFs
-- Snakins
-- Thionins
-- Other
+# Plant Peptide Classification
+
+A comprehensive categorization of small plant peptides based on their primary biological functions: signaling, defense, and transport.
+
+## 1. Signaling Peptides
+These peptides act as chemical messengers. They bind to specific cell-surface receptors to regulate plant growth, cell division, development, and stress responses.
+
+*   **CLE:** CLAVATA3/EMBRYO SURROUNDING REGION-related
+*   **PSKs:** Phytosulfokines
+*   **RALFs:** Rapid Alkalinization Factors
+
+## 2. Defense Peptides
+These peptides are vital components of the plant's innate immune system. They directly target, inhibit, or destroy invading pathogens such as fungi, bacteria, and insects.
+
+*   **Cyclotides:** Cyclic Peptides *(named for their unique circular backbone structure)*
+*   **Defensins:** Plant Defensins
+*   **Snakins:** Snakin Peptides *(named due to structural similarities to snake venom toxins)*
+*   **Thionins:** Plant Thionins
+
+## 3. Transport & Defense Peptides
+These versatile proteins serve a dual purpose. They manage the transport of essential lipids and structural molecules while simultaneously providing structural defense and antimicrobial protection.
+
+*   **LTPs:** Lipid Transfer Proteins
+

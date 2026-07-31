@@ -85,12 +85,33 @@ These versatile proteins serve a dual purpose. They manage the transport of esse
 *   **LTPs:** Lipid Transfer Proteins
 
 
-## Developers
+---
 
-**Md Faiyaz Rizwee**
-📧 [mdfaiyaz4840@gmail.com](mailto:mdfaiyaz4840@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/md-faiyaz-rizwee-62024438b)
+# Developers
 
-**A.T. Vivek**
-📧 [vivek37373@nipgr.ac.in](mailto:vivek37373@nipgr.ac.in) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/vivek-thiruvettai/)
+### Md. Faiyaz Rizwee
+📧 mdfaiyaz4840@gmail.com
 
+🔗 LinkedIn: https://www.linkedin.com/in/md-faiyaz-rizwee-62024438b
 
+---
+
+### A.T. Vivek
+📧 vivek37373@nipgr.ac.in
+
+🔗 LinkedIn: https://www.linkedin.com/in/vivek-thiruvettai/
+
+---
+
+# Contact
+
+For questions, bug reports, feature requests, or scientific discussions, please contact:
+
+**Dr. Shailesh Kumar**
+
+Staff Scientist  
+Bioinformatics Laboratory #202  
+National Institute of Plant Genome Research (NIPGR)  
+New Delhi, India
+
+📧 **Email:** shailesh@nipgr.ac.in
